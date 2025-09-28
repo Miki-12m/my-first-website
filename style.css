@@ -1,0 +1,50 @@
+/* General page background */
+body {
+  background-color: #032288;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Heading style */
+h1 {
+  color: #000000;
+  font-size: 2.5em;
+  margin-bottom: 15px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+/* Paragraph style */
+p {
+  color: #84878a;
+  font-size: 2.2em;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+/* Image styling */
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  float: left;
+}
+
+/* Link styling */
+a {
+  color: #ca0e0e;
+  text-decoration:underline;
+  font-weight: bold;
+  text-align:center;
+  font-size: 1.5em;
+}
+a:hover {
+  text-decoration: underline;
+  text-align: end;
+}
+.p{
+    color: rgb(8, 8, 7);
+    font-size:1.8em;
+}  
